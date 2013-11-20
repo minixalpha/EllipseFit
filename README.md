@@ -1,4 +1,14 @@
-# 1. 示例
+# 1. 使用方式
+
+* windows 下，双击 fit.ext 即可
+
+* 安装python2.7后
+    python fit.py 
+
+* 安装python2.7，且有PIL支持
+    python fitm.py
+
+# 2. 示例
 
 ```
 
@@ -52,18 +62,17 @@
 
 ```
 
-
-#2. 参考资料
+#3. 参考资料
 
 张武. 椭圆最佳八段圆弧拟合[J]. 电加工与模具, 1992, 3:008.
 
 
-#3. 运行环境
+#4. 运行环境
 
 fit.exe: windows 7 32位
 fit.py, fitm.py: 安装Python2.7+环境即可
 
 
-#4. 联系作者
+#5. 联系作者
 
 如有任何问题，请联系 xkzalpha[AT]gmail.com
