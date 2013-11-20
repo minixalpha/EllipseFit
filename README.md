@@ -69,8 +69,9 @@
 
 #4. 运行环境
 
-fit.exe: windows 7 32位
-fit.py, fitm.py: 安装Python2.7+环境即可
+* fit.exe: windows 7 32位
+
+* fit.py, fitm.py: 安装Python2.7+环境即可
 
 
 #5. 联系作者
