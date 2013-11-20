@@ -1,6 +1,6 @@
 # 1. 使用方式
 
-* windows 下，双击 fit.ext 即可
+* windows 下，双击 fit.exe 即可
 
 * 安装python2.7后
     python fit.py 
